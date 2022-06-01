@@ -1,6 +1,4 @@
-# stock-analysis
-
-# Stock-Analysis Using VBA
+# Stock-Analysis 
 VBA of Wall Street
 
 # Overview
